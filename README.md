@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishka Khameshara</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/9d0a9a00-597a-429a-a6ad-4275db9381f6"/>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/4d5e785f-ceb0-4162-98b7-6efc843789d5"/>
 
 - 🔭 I’m currently working on [twitter clone](https://twiiter-clone-hclr.vercel.app/)
 
