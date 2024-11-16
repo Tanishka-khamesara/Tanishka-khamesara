@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanishka Khameshara</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/ff1d71c4-5b50-4e0c-8659-7c07bdb167dd)"
+ />
+
 - 🔭 I’m currently working on [twitter clone](https://twiiter-clone-hclr.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,NodeJs,Java**
