@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8d1a0532-b472-406c-9fc9-38c156c8bd65"/>
 
-- 🔭 I’m currently Learning TypeScript.
+- 🔭 I’m currently Learning Appian.
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,NodeJs,Java**
 
